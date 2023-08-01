@@ -1,1 +1,2 @@
-# levenshtein_distance_calculator
+# Levenshtein Distance Calculator
+The Levenshtein Distance algorithm calculates the number of different characters between two strings. The calculus representation of it can be a recursive function, but the additional computational power of using the recursive method leads to great inefficiency. Calculating the matrix in memory is far superior because it avoids repetitive computations in the recursive method.
